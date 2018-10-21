@@ -1,0 +1,1059 @@
+﻿Log file open, 10/21/18 13:29:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Skeleton_Class
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.404681
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.107s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="HesiMen" -epicuserid=5ebbb9b569f04066ab9ebce58b8a382b -epiclocale=en-US
+LogInit: Base Directory: F:/Games/Epic/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.21-20.29.29:650][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.21-20.29.29:650][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.21-20.29.29:692][  0]LogHAL: Display: Platform has ~ 16 GB [17100603392 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.21-20.29.29:693][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.21-20.29.29:693][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.21-20.29.29:693][  0]LogInit: Computer: DESKTOP-A808GEO
+[2018.10.21-20.29.29:693][  0]LogInit: User: Hesi
+[2018.10.21-20.29.29:693][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.10.21-20.29.29:693][  0]LogInit: High frequency timer resolution =3.609374 MHz
+[2018.10.21-20.29.29:693][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.21-20.29.29:693][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.21-20.29.29:693][  0]LogMemory: Process Physical Memory: 101.50 MB used, 101.50 MB peak
+[2018.10.21-20.29.29:693][  0]LogMemory: Process Virtual Memory: 86.16 MB used, 86.16 MB peak
+[2018.10.21-20.29.29:693][  0]LogMemory: Physical Memory: 11305.11 MB used,  5003.29 MB free, 16308.41 MB total
+[2018.10.21-20.29.29:693][  0]LogMemory: Virtual Memory: 4652.40 MB used,  5003.29 MB free, 134217728.00 MB total
+[2018.10.21-20.29.29:706][  0]LogInit: Using OS detected language (en-US).
+[2018.10.21-20.29.29:706][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.21-20.29.29:707][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.21-20.29.30:036][  0]LogStreaming: Display: Took  0.330s to InitEngineTextLocalization.
+[2018.10.21-20.29.30:036][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.21-20.29.30:068][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.21-20.29.30:068][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.21-20.29.30:228][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.21-20.29.30:229][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.21-20.29.30:303][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.10.21-20.29.30:303][  0]LogD3D11RHI:       8079/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.10.21-20.29.30:304][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.21-20.29.30:304][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.21-20.29.30:304][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.21-20.29.30:312][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.21-20.29.30:312][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.21-20.29.30:312][  0]LogWindows: EnumDisplayDevices:
+[2018.10.21-20.29.30:312][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.10.21-20.29.30:313][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.10.21-20.29.30:313][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.21-20.29.30:313][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.21-20.29.30:313][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.21-20.29.30:313][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.10.21-20.29.30:313][  0]LogD3D11RHI:   Driver Version: 398.82 (internal:24.21.13.9882, unified:398.82)
+[2018.10.21-20.29.30:313][  0]LogD3D11RHI:      Driver Date: 7-30-2018
+[2018.10.21-20.29.30:313][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.10.21-20.29.30:396][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.21-20.29.30:425][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.21-20.29.30:513][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Intermediate/Shaders/WorkingDirectory/18928/).
+[2018.10.21-20.29.30:513][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Hesi/AppData/Local/Temp/UnrealShaderWorkingDir/1430132849FF040F928488B25BC134FC/'.
+[2018.10.21-20.29.30:807][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.21-20.29.30:818][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.21-20.29.30:828][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.21-20.29.30:841][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.21-20.29.30:853][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.21-20.29.30:865][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.21-20.29.30:875][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.21-20.29.30:885][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.21-20.29.30:890][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.21-20.29.30:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.29.30:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.29.30:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.29.30:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.29.30:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.29.30:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.29.30:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.29.30:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.29.30:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.29.30:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.29.30:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.29.30:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.29.30:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.29.30:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.29.30:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.29.30:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.29.30:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.29.30:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-20.29.30:957][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.21-20.29.31:012][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.21-20.29.31:012][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.21-20.29.31:035][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.21-20.29.31:035][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.21-20.29.31:046][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.21-20.29.31:058][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.21-20.29.31:068][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.21-20.29.31:080][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.21-20.29.31:088][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.21-20.29.31:088][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.21-20.29.31:133][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.21-20.29.31:133][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.21-20.29.31:133][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.21-20.29.31:763][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.21-20.29.31:820][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Hesi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.21-20.29.31:820][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Hesi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.21-20.29.31:820][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.21-20.29.31:820][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.21-20.29.31:820][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.21-20.29.31:820][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.21-20.29.31:831][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.21-20.29.31:844][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Hesi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.21-20.29.31:844][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.21-20.29.31:844][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.21-20.29.31:859][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.21-20.29.31:860][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.21-20.29.31:860][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.21-20.29.31:928][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2018.10.21-20.29.32:231][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.21-20.29.32:345][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.21-20.29.32:347][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.21-20.29.32:347][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.21-20.29.32:347][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.21-20.29.32:347][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.21-20.29.32:367][  0]LogNetVersion: Skeleton_Class 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2333641918)
+[2018.10.21-20.29.33:133][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.129313 seconds
+[2018.10.21-20.29.33:138][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.21-20.29.33:138][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.21-20.29.33:138][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.21-20.29.33:878][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.21-20.29.33:892][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.21-20.29.34:017][  0]SourceControl: Source control is disabled
+[2018.10.21-20.29.34:017][  0]SourceControl: Source control is disabled
+[2018.10.21-20.29.34:018][  0]SourceControl: Source control is disabled
+[2018.10.21-20.29.34:019][  0]SourceControl: Source control is disabled
+[2018.10.21-20.29.34:164][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.21-20.29.34:289][  0]LogOcInput: OculusInput pre-init called
+[2018.10.21-20.29.34:339][  0]LogEngine: Initializing Engine...
+[2018.10.21-20.29.34:340][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.21-20.29.34:341][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.21-20.29.34:341][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.21-20.29.34:342][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.21-20.29.34:342][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.21-20.29.34:528][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.21-20.29.34:536][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.21-20.29.34:626][  0]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.21-20.29.34:635][  0]LogInit: FAudioDevice initialized.
+[2018.10.21-20.29.34:635][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.21-20.29.34:849][  0]LogDerivedDataCache: Saved boot cache 0.21s 71MB C:/Users/Hesi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.21-20.29.34:861][  0]LogInit: Texture streaming: Enabled
+[2018.10.21-20.29.34:871][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.21-20.29.34:933][  0]LogInit: Transaction tracking system initialized
+[2018.10.21-20.29.34:944][  0]BlueprintLog: New page: Editor Load
+[2018.10.21-20.29.35:026][  0]LocalizationService: Localization service is disabled
+[2018.10.21-20.29.35:584][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.21-20.29.35:584][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.21-20.29.35:621][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Content/' took 0.02s
+[2018.10.21-20.29.35:621][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.21-20.29.35:621][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.21-20.29.35:621][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.21-20.29.35:622][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.21-20.29.35:622][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.21-20.29.35:653][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Cube'
+[2018.10.21-20.29.35:653][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Cube'
+[2018.10.21-20.29.35:653][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Cube.Cube'
+[2018.10.21-20.29.35:703][  0]SourceControl: Source control is disabled
+[2018.10.21-20.29.35:703][  0]Cmd: MAP LOAD FILE="C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.21-20.29.35:703][  0]LightingResults: New page: Lighting Build
+[2018.10.21-20.29.35:705][  0]MapCheck: New page: Map Check
+[2018.10.21-20.29.35:705][  0]LightingResults: New page: Lighting Build
+[2018.10.21-20.29.42:414][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.21-20.29.42:816][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.21-20.29.42:936][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.21-20.29.42:981][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.493ms to complete.
+[2018.10.21-20.29.42:981][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 7.279
+[2018.10.21-20.29.47:721][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-20.29.47:872][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-20.29.47:878][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-20.29.47:885][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-20.29.48:179][  0]LogCollectionManager: Loaded 0 collections in 0.000914 seconds
+[2018.10.21-20.29.48:719][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Saved/Collections/' took 0.01s
+[2018.10.21-20.29.48:719][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Content/Developers/Hesi/Collections/' took 0.01s
+[2018.10.21-20.29.48:719][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Content/Collections/' took 0.01s
+[2018.10.21-20.29.48:719][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.21-20.29.48:878][  0]LogContentBrowser: Native class hierarchy populated in 0.1445 seconds. Added 2572 classes and 603 folders.
+[2018.10.21-20.29.50:033][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.21-20.29.56:345][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.21-20.29.56:444][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.10.21-20.29.58:530][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.21-20.29.58:554][  0]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.21-20.29.58:783][  0]LogSlate: Took 0.041481 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.21-20.30.00:563][  0]LogRenderer: Reallocating scene render targets to support 1616x812 Format 10 NumSamples 1 (Frame:1).
+[2018.10.21-20.30.03:437][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.21-20.30.03:438][  0]LogLoad: (Engine Initialization) Total time: 35.50 seconds
+[2018.10.21-20.30.03:438][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.21-20.30.03:547][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.21-20.30.03:813][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.21-20.30.04:262][  1]LogAssetRegistry: Asset discovery search completed in 32.3576 seconds
+[2018.10.21-20.30.04:264][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.21-20.30.04:264][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000035 seconds (updated 0 objects)
+[2018.10.21-20.30.05:875][  3]LogSlate: Took 0.142158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.21-20.30.14:195][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-20.30.22:262][868]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Robo/free3DmodelFBX.free3DmodelFBX
+[2018.10.21-20.30.22:311][868]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.10.21-20.30.24:855][868]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.21-20.30.24:860][868]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2018.10.21-20.30.25:081][868]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.21-20.30.25:990][868]LogSlate: Took 0.016892 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.21-20.30.26:053][868]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.10.21-20.30.26:087][869]LogRenderer: Reallocating scene render targets to support 1616x1248 Format 10 NumSamples 1 (Frame:1).
+[2018.10.21-20.30.33:024][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-20.30.33:170][438]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Robo/free3DmodelFBX_Skeleton.free3DmodelFBX_Skeleton
+[2018.10.21-20.30.33:178][438]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.21-20.30.33:197][438]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.21-20.30.50:292][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-20.30.51:059][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robo/free3DmodelFBX_Skeleton" FILE="C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Content/Robo/free3DmodelFBX_Skeleton.uasset" SILENT=true
+[2018.10.21-20.30.51:269][209]LogSavePackage: Moving 'C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Saved/free3DmodelFBX_Skeleton0067EBB74C73291D23B2198602B14750.tmp' to 'C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Content/Robo/free3DmodelFBX_Skeleton.uasset'
+[2018.10.21-20.30.54:453][579]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.21-20.30.54:512][579]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.21-20.30.54:526][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.21-20.30.54:705][579]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 21, 2018, 6:30:54 AM)
+[2018.10.21-20.30.54:720][579]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.21-20.30.54:840][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.118986s)
+[2018.10.21-20.30.54:840][579]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.21-20.30.54:840][579]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2018.10.21-20.30.54:840][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.120078s)
+[2018.10.21-20.30.54:947][579]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.21-20.30.54:952][579]LogInit: FAudioDevice initialized.
+[2018.10.21-20.30.55:047][579]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.21-20.30.55:074][579]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.21-13.30.55
+[2018.10.21-20.30.55:110][579]LogWorld: Bringing up level for play took: 0.062116
+[2018.10.21-20.30.55:394][579]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2018.10.21-20.30.55:441][579]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.292
+[2018.10.21-20.30.55:441][579]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.21-20.31.29:663][640]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.21-20.31.30:073][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-20.31.30:145][640]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.21-20.31.30:145][640]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.21-20.31.30:181][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-20.31.30:238][641]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.10.21-20.31.35:105][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-20.31.40:077][760]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Robo/Animation/ThirdPersonWalk.ThirdPersonWalk
+[2018.10.21-20.31.40:174][760]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.21-20.31.40:195][760]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.21-20.31.40:802][760]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.21-20.37.18:555][153]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-20.37.58:759][735]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Robo/free3DmodelFBX_Skeleton.free3DmodelFBX_Skeleton
+[2018.10.21-20.37.58:766][735]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.21-20.37.58:785][735]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.21-20.38.15:646][480]LogTextFormatter: Warning: Failed to parse argument "ExistingAsset" as a number (using "0" as a fallback). Please check your format string for errors: "{ExistingAsset} already exists. Do you want to replace it?".
+[2018.10.21-20.38.16:795][480]LogSlate: Window 'Message' being destroyed
+[2018.10.21-20.38.16:800][480]LogSlate: Window 'Save Mapping' being destroyed
+[2018.10.21-20.38.36:508][280]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.21-20.38.36:520][280]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.21-20.38.36:520][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.21-20.38.36:520][280]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 21, 2018, 6:38:36 AM)
+[2018.10.21-20.38.36:520][280]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.21-20.38.36:532][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011592s)
+[2018.10.21-20.38.36:533][280]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.21-20.38.36:533][280]LogPlayLevel: PIE: World Init took: (0.001192s)
+[2018.10.21-20.38.36:533][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013004s)
+[2018.10.21-20.38.36:977][280]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.21-20.38.36:984][280]LogInit: FAudioDevice initialized.
+[2018.10.21-20.38.37:012][280]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.21-20.38.37:014][280]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.21-13.38.37
+[2018.10.21-20.38.37:014][280]LogWorld: Bringing up level for play took: 0.001294
+[2018.10.21-20.38.37:027][280]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.122
+[2018.10.21-20.38.37:027][280]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.21-20.39.10:358][226]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.21-20.39.10:358][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-20.39.10:391][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.21-20.39.10:391][226]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.21-20.39.10:415][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-20.39.10:461][229]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.10.21-20.40.29:746][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-20.40.56:572][675]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Hesi\Downloads\Victory.fbx)
+[2018.10.21-20.40.56:823][675]LogFbx: Loading FBX Scene from C:\Users\Hesi\Downloads\Victory.fbx
+[2018.10.21-20.40.56:918][675]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.21-20.41.10:487][675]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.21-20.41.10:970][675]FBXImport: Error: Mesh contains free3dmodel_skeleton bone as root but animation doesn't contain the root track.
+Import failed. 
+[2018.10.21-20.41.10:970][675]FBXImport: Error: Import failed. 
+[2018.10.21-20.41.13:454][675]LogSlate: Window 'Message' being destroyed
+[2018.10.21-20.41.13:458][675]LogAssetTools: Warning: Failed to import 'C:\Users\Hesi\Downloads\Victory.fbx'. Failed to create asset '/Game/Robo/Animation/Victory'.
+Please see Output Log for details.
+[2018.10.21-20.41.15:795][945]LogSlate: Window 'Message Log' being destroyed
+[2018.10.21-20.41.15:800][945]LogSlate: Window 'Message Log' being destroyed
+[2018.10.21-20.41.25:513][348]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Hesi\Downloads\Victory.fbx)
+[2018.10.21-20.41.25:524][348]LogFbx: Loading FBX Scene from C:\Users\Hesi\Downloads\Victory.fbx
+[2018.10.21-20.41.25:557][348]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.21-20.41.31:062][348]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.21-20.41.31:085][348]FBXImport: Error: Mesh contains root bone as root but animation doesn't contain the root track.
+Import failed. 
+[2018.10.21-20.41.31:085][348]FBXImport: Error: Import failed. 
+[2018.10.21-20.41.37:958][348]LogSlate: Window 'Message' being destroyed
+[2018.10.21-20.41.37:962][348]LogAssetTools: Warning: Failed to import 'C:\Users\Hesi\Downloads\Victory.fbx'. Failed to create asset '/Game/Robo/Animation/Victory'.
+Please see Output Log for details.
+[2018.10.21-20.41.41:419][703]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.022
+[2018.10.21-20.41.41:461][703]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Robo/free3DmodelFBX_Skeleton] ([1] browsable assets)...
+[2018.10.21-20.41.41:461][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/Robo/free3DmodelFBX_Skeleton]
+[2018.10.21-20.41.41:482][703]LogSavePackage: Moving 'C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Saved/free3DmodelFBX_Skeleton_Auto15FFC3BA44C0BE027ADABB487416D4112.tmp' to 'C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Saved/Autosaves/Game/Robo/free3DmodelFBX_Skeleton_Auto1.uasset'
+[2018.10.21-20.41.41:484][703]LogFileHelpers: Auto-saving content packages took 0.059
+[2018.10.21-20.56.35:379][803]LogSlate: Window 'Message Log' being destroyed
+[2018.10.21-20.56.35:409][803]LogSlate: Window 'Message Log' being destroyed
+[2018.10.21-20.56.48:445][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robo/free3DmodelFBX_Skeleton" FILE="C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Content/Robo/free3DmodelFBX_Skeleton.uasset" SILENT=true
+[2018.10.21-20.56.48:498][350]LogSavePackage: Moving 'C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Saved/free3DmodelFBX_SkeletonB83A0798480DCF5C9ED29990B3747D47.tmp' to 'C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Content/Robo/free3DmodelFBX_Skeleton.uasset'
+[2018.10.21-20.56.49:935][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robo/free3DmodelFBX_Skeleton" FILE="C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Content/Robo/free3DmodelFBX_Skeleton.uasset" SILENT=true
+[2018.10.21-20.56.49:946][520]LogSavePackage: Moving 'C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Saved/free3DmodelFBX_SkeletonB1DBA8C64F874CDC8907FA861BFD3B4B.tmp' to 'C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Content/Robo/free3DmodelFBX_Skeleton.uasset'
+[2018.10.21-20.56.54:516][ 22]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.21-20.56.54:529][ 22]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.21-20.56.54:529][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.21-20.56.54:529][ 22]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 21, 2018, 6:56:54 AM)
+[2018.10.21-20.56.54:529][ 22]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.21-20.56.54:541][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011829s)
+[2018.10.21-20.56.54:542][ 22]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.21-20.56.54:542][ 22]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2018.10.21-20.56.54:542][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013084s)
+[2018.10.21-20.56.54:594][ 22]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.21-20.56.54:600][ 22]LogInit: FAudioDevice initialized.
+[2018.10.21-20.56.54:632][ 22]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.21-20.56.54:634][ 22]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.21-13.56.54
+[2018.10.21-20.56.54:634][ 22]LogWorld: Bringing up level for play took: 0.001203
+[2018.10.21-20.56.54:646][ 22]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.502
+[2018.10.21-20.56.54:646][ 22]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.21-20.56.59:447][595]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.21-20.56.59:447][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-20.56.59:480][595]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.21-20.56.59:480][595]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.21-20.56.59:506][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-20.56.59:564][597]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.10.21-20.57.04:067][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-20.57.12:703][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robo/free3DmodelFBX_Skeleton" FILE="C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Content/Robo/free3DmodelFBX_Skeleton.uasset" SILENT=true
+[2018.10.21-20.57.12:715][104]LogSavePackage: Moving 'C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Saved/free3DmodelFBX_SkeletonB418FAD548B68912183FF181BBBCBBEB.tmp' to 'C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Content/Robo/free3DmodelFBX_Skeleton.uasset'
+[2018.10.21-20.57.13:720][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Robo/free3DmodelFBX_Skeleton" FILE="C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Content/Robo/free3DmodelFBX_Skeleton.uasset" SILENT=true
+[2018.10.21-20.57.13:731][222]LogSavePackage: Moving 'C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Saved/free3DmodelFBX_SkeletonDE6EF3624065049A8CFAE2B041463713.tmp' to 'C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Content/Robo/free3DmodelFBX_Skeleton.uasset'
+[2018.10.21-20.57.19:873][825]LogTextFormatter: Warning: Failed to parse argument "ExistingAsset" as a number (using "0" as a fallback). Please check your format string for errors: "{ExistingAsset} already exists. Do you want to replace it?".
+[2018.10.21-20.57.20:960][825]LogSlate: Window 'Message' being destroyed
+[2018.10.21-20.57.20:964][825]LogSlate: Window 'Save Mapping' being destroyed
+[2018.10.21-20.57.25:409][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-20.57.31:624][954]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.21-20.57.31:635][954]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.21-20.57.31:636][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.21-20.57.31:636][954]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 21, 2018, 6:57:31 AM)
+[2018.10.21-20.57.31:636][954]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.21-20.57.31:646][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010188s)
+[2018.10.21-20.57.31:647][954]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.21-20.57.31:647][954]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2018.10.21-20.57.31:647][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011342s)
+[2018.10.21-20.57.31:697][954]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.21-20.57.31:701][954]LogInit: FAudioDevice initialized.
+[2018.10.21-20.57.31:733][954]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.21-20.57.31:735][954]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.21-13.57.31
+[2018.10.21-20.57.31:736][954]LogWorld: Bringing up level for play took: 0.001245
+[2018.10.21-20.57.31:747][954]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.599
+[2018.10.21-20.57.31:747][954]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.21-20.57.34:355][264]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.21-20.57.34:355][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-20.57.34:387][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.21-20.57.34:387][264]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.21-20.57.34:410][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-20.57.34:465][266]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.10.21-20.57.45:984][681]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Hesi\Downloads\Victory.fbx)
+[2018.10.21-20.57.45:994][681]LogFbx: Loading FBX Scene from C:\Users\Hesi\Downloads\Victory.fbx
+[2018.10.21-20.57.46:022][681]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.21-20.57.46:038][681]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-20.57.50:105][681]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.21-20.57.50:127][681]FBXImport: Error: Mesh contains free3dmodel_skeleton bone as root but animation doesn't contain the root track.
+Import failed. 
+[2018.10.21-20.57.50:127][681]FBXImport: Error: Import failed. 
+[2018.10.21-20.57.51:676][681]LogSlate: Window 'Message' being destroyed
+[2018.10.21-20.57.51:680][681]LogAssetTools: Warning: Failed to import 'C:\Users\Hesi\Downloads\Victory.fbx'. Failed to create asset '/Game/Robo/Animation/Victory'.
+Please see Output Log for details.
+[2018.10.21-20.57.58:605][462]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Shared/Editor/FbxErrors/index.html?utm_source=editor&utm_medium=docs&utm_campaign=msg_log
+[2018.10.21-20.58.12:932][631]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Robo/free3DmodelFBX_Skeleton.free3DmodelFBX_Skeleton
+[2018.10.21-20.58.12:937][631]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.21-20.58.12:959][631]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.21-20.58.58:093][621]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.025
+[2018.10.21-20.58.58:094][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Robo/free3DmodelFBX_Skeleton] ([1] browsable assets)...
+[2018.10.21-20.58.58:094][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/Robo/free3DmodelFBX_Skeleton]
+[2018.10.21-20.58.58:107][621]LogSavePackage: Moving 'C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Saved/free3DmodelFBX_Skeleton_Auto297018154499B521BAE01E6B42A9E5926.tmp' to 'C:/Users/Hesi/Documents/Unreal Projects/Skeleton_Class/Saved/Autosaves/Game/Robo/free3DmodelFBX_Skeleton_Auto2.uasset'
+[2018.10.21-20.58.58:108][621]LogFileHelpers: Auto-saving content packages took 0.014
+[2018.10.21-20.58.59:823][825]LogSlate: Window 'Message Log' being destroyed
+[2018.10.21-20.58.59:829][825]LogSlate: Window 'Message Log' being destroyed
+[2018.10.21-20.59.03:134][892]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Hesi\Downloads\Victory.fbx)
+[2018.10.21-20.59.03:145][892]LogFbx: Loading FBX Scene from C:\Users\Hesi\Downloads\Victory.fbx
+[2018.10.21-20.59.03:179][892]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.21-20.59.08:031][892]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.21-20.59.10:753][  4]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Hesi\Downloads\Victory.fbx)
+[2018.10.21-20.59.10:763][  4]LogFbx: Loading FBX Scene from C:\Users\Hesi\Downloads\Victory.fbx
+[2018.10.21-20.59.10:792][  4]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.21-20.59.39:037][  4]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.21-20.59.39:092][  4]FBXImport: Error: Mesh contains root bone as root but animation doesn't contain the root track.
+Import failed. 
+[2018.10.21-20.59.39:092][  4]FBXImport: Error: Import failed. 
+[2018.10.21-20.59.40:303][  4]LogSlate: Window 'Message' being destroyed
+[2018.10.21-20.59.40:307][  4]LogAssetTools: Warning: Failed to import 'C:\Users\Hesi\Downloads\Victory.fbx'. Failed to create asset '/Game/Robo/Victory'.
+Please see Output Log for details.
+[2018.10.21-20.59.41:714][172]LogSlate: Window 'Message Log' being destroyed
+[2018.10.21-20.59.41:719][172]LogSlate: Window 'Message Log' being destroyed
+[2018.10.21-20.59.51:325][955]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Hesi\Downloads\Victory.fbx)
+[2018.10.21-20.59.51:336][955]LogFbx: Loading FBX Scene from C:\Users\Hesi\Downloads\Victory.fbx
+[2018.10.21-20.59.51:365][955]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.21-21.00.27:802][955]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.21-21.00.27:834][955]FBXImport: Error: Mesh contains free3dmodel_skeleton bone as root but animation doesn't contain the root track.
+Import failed. 
+[2018.10.21-21.00.27:834][955]FBXImport: Error: Import failed. 
+[2018.10.21-21.00.29:610][955]LogSlate: Window 'Message' being destroyed
+[2018.10.21-21.00.29:615][955]LogAssetTools: Warning: Failed to import 'C:\Users\Hesi\Downloads\Victory.fbx'. Failed to create asset '/Game/Robo/Victory'.
+Please see Output Log for details.
+[2018.10.21-21.01.06:684][452]LogSlate: Window 'Message Log' being destroyed
+[2018.10.21-21.01.06:691][452]LogSlate: Window 'Message Log' being destroyed
+[2018.10.21-21.01.12:015][759]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Hesi\Downloads\Victory (1).fbx)
+[2018.10.21-21.01.12:029][759]LogFbx: Loading FBX Scene from C:\Users\Hesi\Downloads\Victory (1).fbx
+[2018.10.21-21.01.12:515][759]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.21-21.01.36:826][759]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.21-21.01.37:240][759]LogFbx: =================================================
+[2018.10.21-21.01.37:240][759]LogFbx: Dumping Node START [Beta_Joints] 
+[2018.10.21-21.01.37:240][759]LogFbx: 	Total Deformer Count -1430729152.
+[2018.10.21-21.01.37:240][759]LogFbx: 		[Node 1] Skin Beta_Joints (Type Skin).
+[2018.10.21-21.01.37:240][759]LogFbx: =================================================
+[2018.10.21-21.01.37:240][759]LogFbx: 	Attribute (Beta_Joints) Type (4).
+[2018.10.21-21.01.37:240][759]LogFbx: 		[Node Attribute Child 1] Beta_Joints (Type Mesh).
+[2018.10.21-21.01.37:240][759]LogFbx: Dumping Node END [Beta_Joints]
+[2018.10.21-21.01.37:240][759]LogFbx: =================================================
+[2018.10.21-21.01.37:240][759]LogFbx: Dumping Node START [Beta_Surface] 
+[2018.10.21-21.01.37:240][759]LogFbx: 	Total Deformer Count -719122384.
+[2018.10.21-21.01.37:240][759]LogFbx: 		[Node 1] Skin Beta_Surface (Type Skin).
+[2018.10.21-21.01.37:240][759]LogFbx: =================================================
+[2018.10.21-21.01.37:240][759]LogFbx: 	Attribute (Beta_Surface) Type (4).
+[2018.10.21-21.01.37:240][759]LogFbx: 		[Node Attribute Child 1] Beta_Surface (Type Mesh).
+[2018.10.21-21.01.37:240][759]LogFbx: Dumping Node END [Beta_Surface]
+[2018.10.21-21.01.37:241][759]LogFbx: =================================================
+[2018.10.21-21.01.37:241][759]LogFbx: Dumping Node START [Beta_Joints] 
+[2018.10.21-21.01.37:241][759]LogFbx: 	Total Deformer Count -1430729536.
+[2018.10.21-21.01.37:241][759]LogFbx: 		[Node 1] Skin Beta_Joints (Type Skin).
+[2018.10.21-21.01.37:241][759]LogFbx: =================================================
+[2018.10.21-21.01.37:241][759]LogFbx: 	Attribute (Beta_Joints) Type (4).
+[2018.10.21-21.01.37:241][759]LogFbx: 		[Node Attribute Child 1] Beta_Joints (Type Mesh).
+[2018.10.21-21.01.37:241][759]LogFbx: Dumping Node END [Beta_Joints]
+[2018.10.21-21.01.37:241][759]LogFbx: =================================================
+[2018.10.21-21.01.37:241][759]LogFbx: Dumping Node START [Beta_Surface] 
+[2018.10.21-21.01.37:241][759]LogFbx: 	Total Deformer Count -719115344.
+[2018.10.21-21.01.37:241][759]LogFbx: 		[Node 1] Skin Beta_Surface (Type Skin).
+[2018.10.21-21.01.37:241][759]LogFbx: =================================================
+[2018.10.21-21.01.37:241][759]LogFbx: 	Attribute (Beta_Surface) Type (4).
+[2018.10.21-21.01.37:241][759]LogFbx: 		[Node Attribute Child 1] Beta_Surface (Type Mesh).
+[2018.10.21-21.01.37:241][759]LogFbx: Dumping Node END [Beta_Surface]
+[2018.10.21-21.01.37:265][759]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Beta_Joints : The relative matrices do not match
+[2018.10.21-21.01.37:266][759]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Beta_Surface : The relative matrices do not match
+[2018.10.21-21.01.37:266][759]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Beta_Joints : The relative matrices do not match
+[2018.10.21-21.01.37:267][759]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Beta_Surface : The relative matrices do not match
+[2018.10.21-21.01.37:267][759]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2018.10.21-21.01.37:268][759]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Beta_Joints
+[2018.10.21-21.01.37:268][759]LogFbx: Warning: Recreating bind pose succeeded.
+[2018.10.21-21.01.37:418][759]LogMaterial: Warning: Material /Game/Robo/Beta_Joints_MAT.Beta_Joints_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.21-21.01.37:421][759]LogMaterial: Display: Missing cached shader map for material Beta_Joints_MAT, compiling. 
+[2018.10.21-21.01.37:681][759]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.21-21.01.37:681][759]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.21-21.01.37:681][759]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.21-21.01.37:681][759]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.21-21.01.37:681][759]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.21-21.01.37:681][759]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.21-21.01.37:721][759]LogMaterial: Display: Missing cached shader map for material Beta_Joints_MAT, compiling. 
+[2018.10.21-21.01.37:801][759]LogFbx: Triangulating skeletal mesh Beta_Joints
+[2018.10.21-21.01.38:699][759]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.21-21.01.38:699][759]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.21-21.01.38:699][759]LogMaterial: Warning: Material /Game/Robo/Beta_HighLimbsGeoSG2.Beta_HighLimbsGeoSG2 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.21-21.01.38:702][759]LogMaterial: Display: Missing cached shader map for material Beta_HighLimbsGeoSG2, compiling. 
+[2018.10.21-21.01.38:730][759]LogMaterial: Display: Missing cached shader map for material Beta_HighLimbsGeoSG2, compiling. 
+[2018.10.21-21.01.38:767][759]LogFbx: Triangulating skeletal mesh Beta_Surface
+[2018.10.21-21.01.40:358][759]LogFbx: Warning: Bones digested - 67  Depth of hierarchy - 12
+[2018.10.21-21.01.41:722][759]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.10.21-21.01.41:924][759]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.10.21-21.01.41:924][759]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.10.21-21.01.42:004][759]LogSkeletalMesh: Section 0: 12473 vertices, 37 active bones
+[2018.10.21-21.01.42:008][759]LogSkeletalMesh: Section 1: 15839 vertices, 50 active bones
+[2018.10.21-21.01.42:012][759]LogSkeletalMesh: Section 0: Material=0, 20840 triangles
+[2018.10.21-21.01.42:012][759]LogSkeletalMesh: Section 1: Material=1, 28272 triangles
+[2018.10.21-21.01.42:049][759]LogSkeletalMesh: Building Skeletal Mesh Victory__1_...
+[2018.10.21-21.01.42:185][759]LogSkeletalMesh: Built Skeletal Mesh [0.14s] /Game/Robo/Victory__1_.Victory__1_
+[2018.10.21-21.01.42:249][759]LogLinker: Can't find file '/Game/Robo/Victory__1__Skeleton'
+[2018.10.21-21.01.42:249][759]LogLinker: Can't find file '/Game/Robo/Victory__1__Skeleton'
+[2018.10.21-21.01.42:264][759]LogLinker: Can't find file '/Game/Robo/Victory__1__PhysicsAsset'
+[2018.10.21-21.01.42:264][759]LogLinker: Can't find file '/Game/Robo/Victory__1__PhysicsAsset'
+[2018.10.21-21.01.42:345][759]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.10.21-21.01.42:367][759]LogFbx: =================================================
+[2018.10.21-21.01.42:367][759]LogFbx: Dumping Node START [Beta_Joints] 
+[2018.10.21-21.01.42:367][759]LogFbx: 	Total Deformer Count -158718016.
+[2018.10.21-21.01.42:367][759]LogFbx: 		[Node 1] Skin Beta_Joints (Type Skin).
+[2018.10.21-21.01.42:367][759]LogFbx: =================================================
+[2018.10.21-21.01.42:367][759]LogFbx: 	Attribute (Beta_Joints) Type (4).
+[2018.10.21-21.01.42:367][759]LogFbx: 		[Node Attribute Child 1] Beta_Joints (Type Mesh).
+[2018.10.21-21.01.42:368][759]LogFbx: Dumping Node END [Beta_Joints]
+[2018.10.21-21.01.42:368][759]LogFbx: =================================================
+[2018.10.21-21.01.42:368][759]LogFbx: Dumping Node START [Beta_Surface] 
+[2018.10.21-21.01.42:368][759]LogFbx: 	Total Deformer Count -501811712.
+[2018.10.21-21.01.42:368][759]LogFbx: 		[Node 1] Skin Beta_Surface (Type Skin).
+[2018.10.21-21.01.42:368][759]LogFbx: =================================================
+[2018.10.21-21.01.42:368][759]LogFbx: 	Attribute (Beta_Surface) Type (4).
+[2018.10.21-21.01.42:368][759]LogFbx: 		[Node Attribute Child 1] Beta_Surface (Type Mesh).
+[2018.10.21-21.01.42:368][759]LogFbx: Dumping Node END [Beta_Surface]
+[2018.10.21-21.01.42:369][759]LogFbx: =================================================
+[2018.10.21-21.01.42:369][759]LogFbx: Dumping Node START [Beta_Joints] 
+[2018.10.21-21.01.42:369][759]LogFbx: 	Total Deformer Count -158725760.
+[2018.10.21-21.01.42:369][759]LogFbx: 		[Node 1] Skin Beta_Joints (Type Skin).
+[2018.10.21-21.01.42:369][759]LogFbx: =================================================
+[2018.10.21-21.01.42:369][759]LogFbx: 	Attribute (Beta_Joints) Type (4).
+[2018.10.21-21.01.42:369][759]LogFbx: 		[Node Attribute Child 1] Beta_Joints (Type Mesh).
+[2018.10.21-21.01.42:369][759]LogFbx: Dumping Node END [Beta_Joints]
+[2018.10.21-21.01.42:369][759]LogFbx: =================================================
+[2018.10.21-21.01.42:369][759]LogFbx: Dumping Node START [Beta_Surface] 
+[2018.10.21-21.01.42:369][759]LogFbx: 	Total Deformer Count -501811792.
+[2018.10.21-21.01.42:369][759]LogFbx: 		[Node 1] Skin Beta_Surface (Type Skin).
+[2018.10.21-21.01.42:369][759]LogFbx: =================================================
+[2018.10.21-21.01.42:369][759]LogFbx: 	Attribute (Beta_Surface) Type (4).
+[2018.10.21-21.01.42:369][759]LogFbx: 		[Node Attribute Child 1] Beta_Surface (Type Mesh).
+[2018.10.21-21.01.42:369][759]LogFbx: Dumping Node END [Beta_Surface]
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(0) Hips
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(1) Spine
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(2) Spine1
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(3) Spine2
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(4) Neck
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(5) Head
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(7) LeftEye
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(8) RightEye
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(9) LeftShoulder
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(10) LeftArm
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(11) LeftForeArm
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(12) LeftHand
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2018.10.21-21.01.42:376][759]LogFbx: SortedLinks :(25) LeftHandRing1
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(26) LeftHandRing2
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(27) LeftHandRing3
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(28) LeftHandRing4
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(33) RightShoulder
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(34) RightArm
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(35) RightForeArm
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(36) RightHand
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(37) RightHandPinky1
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(38) RightHandPinky2
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(39) RightHandPinky3
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(40) RightHandPinky4
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(41) RightHandRing1
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(42) RightHandRing2
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(43) RightHandRing3
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(44) RightHandRing4
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(49) RightHandIndex1
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(50) RightHandIndex2
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(51) RightHandIndex3
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(52) RightHandIndex4
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(53) RightHandThumb1
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(54) RightHandThumb2
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(55) RightHandThumb3
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(56) RightHandThumb4
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(57) LeftUpLeg
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(58) LeftLeg
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(59) LeftFoot
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(60) LeftToeBase
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(61) LeftToe_End
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(62) RightUpLeg
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(63) RightLeg
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(64) RightFoot
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(65) RightToeBase
+[2018.10.21-21.01.42:377][759]LogFbx: SortedLinks :(66) RightToe_End
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(0) Hips
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(1) Spine
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(2) Spine1
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(3) Spine2
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(4) Neck
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(5) Head
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(7) LeftEye
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(8) RightEye
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(9) LeftShoulder
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(10) LeftArm
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(11) LeftForeArm
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(12) LeftHand
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(25) LeftHandRing1
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(26) LeftHandRing2
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(27) LeftHandRing3
+[2018.10.21-21.01.42:379][759]LogFbx: SortedLinks :(28) LeftHandRing4
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(33) RightShoulder
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(34) RightArm
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(35) RightForeArm
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(36) RightHand
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(37) RightHandPinky1
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(38) RightHandPinky2
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(39) RightHandPinky3
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(40) RightHandPinky4
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(41) RightHandRing1
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(42) RightHandRing2
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(43) RightHandRing3
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(44) RightHandRing4
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(49) RightHandIndex1
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(50) RightHandIndex2
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(51) RightHandIndex3
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(52) RightHandIndex4
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(53) RightHandThumb1
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(54) RightHandThumb2
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(55) RightHandThumb3
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(56) RightHandThumb4
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(57) LeftUpLeg
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(58) LeftLeg
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(59) LeftFoot
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(60) LeftToeBase
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(61) LeftToe_End
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(62) RightUpLeg
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(63) RightLeg
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(64) RightFoot
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(65) RightToeBase
+[2018.10.21-21.01.42:380][759]LogFbx: SortedLinks :(66) RightToe_End
+[2018.10.21-21.01.42:384][759]LogFbx: Parsing AnimStack Take 001
+[2018.10.21-21.01.42:409][759]LogLinker: Can't find file '/Game/Robo/Victory__1__Anim'
+[2018.10.21-21.01.42:409][759]LogLinker: Can't find file '/Game/Robo/Victory__1__Anim'
+[2018.10.21-21.01.42:538][759]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Robo/Victory__1__Anim.Victory__1__Anim
+[2018.10.21-21.01.42:539][759]LogAnimation: Warning: No animation data exists for sequence Victory__1__Anim (Package /Engine/Transient)
+[2018.10.21-21.01.42:539][759]LoadErrors: Warning: The Animation  Victory__1__Anim has no animation data. Recommend to remove.
+[2018.10.21-21.01.42:562][759]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Victory__1__Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.21-21.01.42:562][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 0: no translation keys
+[2018.10.21-21.01.42:562][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 0: no translation keys
+[2018.10.21-21.01.42:562][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 0: no rotation keys
+[2018.10.21-21.01.42:562][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 1: no translation keys
+[2018.10.21-21.01.42:562][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 1: no translation keys
+[2018.10.21-21.01.42:562][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 1: no rotation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 2: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 2: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 2: no rotation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 3: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 3: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 3: no rotation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 4: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 4: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 4: no rotation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 5: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 5: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 5: no rotation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 6: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 6: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 6: no rotation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 7: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 7: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 7: no rotation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 8: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 8: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 8: no rotation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 9: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 9: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 9: no rotation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 10: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 10: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 10: no rotation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 11: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 11: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 11: no rotation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 12: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 12: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 12: no rotation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 13: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 13: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 13: no rotation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 14: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 14: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 14: no rotation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 15: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 15: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 15: no rotation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 16: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 16: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 16: no rotation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 17: no translation keys
+[2018.10.21-21.01.42:563][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 17: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 17: no rotation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 18: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 18: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 18: no rotation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 19: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 19: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 19: no rotation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 20: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 20: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 20: no rotation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 21: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 21: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 21: no rotation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 22: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 22: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 22: no rotation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 23: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 23: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 23: no rotation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 24: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 24: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 24: no rotation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 25: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 25: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 25: no rotation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 26: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 26: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 26: no rotation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 27: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 27: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 27: no rotation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 28: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 28: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 28: no rotation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 29: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 29: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 29: no rotation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 30: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 30: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 30: no rotation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 31: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 31: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 31: no rotation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 32: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 32: no translation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 32: no rotation keys
+[2018.10.21-21.01.42:564][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 33: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 33: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 33: no rotation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 34: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 34: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 34: no rotation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 35: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 35: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 35: no rotation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 36: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 36: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 36: no rotation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 37: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 37: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 37: no rotation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 38: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 38: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 38: no rotation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 39: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 39: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 39: no rotation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 40: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 40: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 40: no rotation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 41: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 41: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 41: no rotation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 42: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 42: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 42: no rotation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 43: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 43: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 43: no rotation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 44: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 44: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 44: no rotation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 45: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 45: no translation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 45: no rotation keys
+[2018.10.21-21.01.42:565][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 46: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 46: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 46: no rotation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 47: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 47: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 47: no rotation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 48: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 48: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 48: no rotation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 49: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 49: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 49: no rotation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 50: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 50: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 50: no rotation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 51: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 51: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 51: no rotation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 52: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 52: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 52: no rotation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 53: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 53: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 53: no rotation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 54: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 54: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 54: no rotation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 55: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 55: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 55: no rotation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 56: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 56: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 56: no rotation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 57: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 57: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 57: no rotation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 58: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 58: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 58: no rotation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 59: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 59: no translation keys
+[2018.10.21-21.01.42:566][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 59: no rotation keys
+[2018.10.21-21.01.42:567][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 60: no translation keys
+[2018.10.21-21.01.42:567][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 60: no translation keys
+[2018.10.21-21.01.42:567][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 60: no rotation keys
+[2018.10.21-21.01.42:567][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 61: no translation keys
+[2018.10.21-21.01.42:567][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 61: no translation keys
+[2018.10.21-21.01.42:567][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 61: no rotation keys
+[2018.10.21-21.01.42:567][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 62: no translation keys
+[2018.10.21-21.01.42:567][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 62: no translation keys
+[2018.10.21-21.01.42:567][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 62: no rotation keys
+[2018.10.21-21.01.42:567][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 63: no translation keys
+[2018.10.21-21.01.42:567][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 63: no translation keys
+[2018.10.21-21.01.42:567][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 63: no rotation keys
+[2018.10.21-21.01.42:567][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 64: no translation keys
+[2018.10.21-21.01.42:567][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 64: no translation keys
+[2018.10.21-21.01.42:567][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 64: no rotation keys
+[2018.10.21-21.01.42:567][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 65: no translation keys
+[2018.10.21-21.01.42:567][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 65: no translation keys
+[2018.10.21-21.01.42:567][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 65: no rotation keys
+[2018.10.21-21.01.42:567][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 66: no translation keys
+[2018.10.21-21.01.42:567][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 66: no translation keys
+[2018.10.21-21.01.42:567][759]LogAnimationCompression: Warning: When compressing Victory__1__Anim track 66: no rotation keys
+[2018.10.21-21.01.45:310][759]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.21-21.01.45:310][759]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.21-21.01.45:310][759]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.21-21.01.45:310][759]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.21-21.01.45:310][759]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.21-21.01.45:310][759]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.21-21.01.45:310][759]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.742 s
+[2018.10.21-21.01.45:310][759]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: 
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: Ensure condition failed: bCompressionSuccessful [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Animation\AnimCompressionDerivedData.cpp] [Line: 138]
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: Anim Compression failed for Sequence 'AnimSequence /Engine/Transient.Victory__1__Anim' with compression scheme 'AnimCompress_BitwiseCompressOnly /Engine/Transient.AnimCompress_BitwiseCompressOnly_0': compressed data empty
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: 	AnimIndex: 0
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: 	MaxAnim:1
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: 	AllowAltCompressor:false
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: 	Output:false
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: Stack: 
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff81a9971f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff81a6d0c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff81a6eb356 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff817acbfb9 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff80bf44c8b UE4Editor-DerivedDataCache.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff80bf43f61 UE4Editor-DerivedDataCache.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff80bf6151c UE4Editor-DerivedDataCache.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff80bf4e40a UE4Editor-DerivedDataCache.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff817bfd362 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff817bfcfe7 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff817bef2c2 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff816c1da4f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff816c1e74e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff81681c719 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff816752a9b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff8166c18c5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff809c73904 UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff809c70141 UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff808c09a6d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff83fa98a9e UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff83fb31ff8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff83fb17c7a UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff83fb07631 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff85bfdb154 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff85bfd0cec UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff87b4f300b ole32.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff87af546f3 RPCRT4.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff87afbde1d RPCRT4.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff87af05524 RPCRT4.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff87b143942 combase.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff87b0de80b combase.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff87b0de485 combase.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff87b0def06 combase.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff87b0db182 combase.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff87b0d9fcc combase.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff87b1001fb combase.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff87b0ffb08 combase.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff87bab6cc1 USER32.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff87bab6693 USER32.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff85bfe0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff7586054e5 UE4Editor.exe!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff758615b3c UE4Editor.exe!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff758615bba UE4Editor.exe!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff758623dac UE4Editor.exe!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff758625aaa UE4Editor.exe!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff87b893034 KERNEL32.DLL!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: [Callstack] 0x00007ff87bcd1461 ntdll.dll!UnknownFunction []
+[2018.10.21-21.01.45:311][759]LogOutputDevice: Error: 
+[2018.10.21-21.01.45:329][759]LogStats:                SubmitErrorReport -  0.013 s
